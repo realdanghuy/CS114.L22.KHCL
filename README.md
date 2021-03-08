@@ -16,7 +16,7 @@
 * **Họ&Tên**: LÊ ĐẶNG ĐĂNG HUY
 * **MSSV**: 19521612
 * **Khóa**: Khóa 2019 (K14)
-* **Khoa**: Khoa học máy tính
+* **Khoa**: Khoa học máy tính (CLC)
 ## GIỚI THIỆU MÔN HỌC
 <a name="monhoc"></a>
 * **Môn học**: MÁY HỌC - MACHINE LEARNING

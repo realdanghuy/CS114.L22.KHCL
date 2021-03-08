@@ -5,12 +5,20 @@
 </p>
 
 ## BẢNG MỤC LỤC
-* [Giới thiệu môn học](#gioithieumonhoc)
+* [Giới thiệu bản thân](#banthan)
+* [Giới thiệu môn học](#monhoc)
 * [Giảng viên hướng dẫn](#giangvien)
-* [Quá trình học tập](#hoatdong)
+* [Quá trình học tập](#quatrinh)
+* [Đồ án](#doan)
 
+## GIỚI THIỆU BẢN THÂN
+<a name="banthan"></a>
+* **Họ&Tên**: LÊ ĐẶNG ĐĂNG HUY
+* **MSSV**: 19521612
+* **Khóa**: Khóa 2019 (K14)
+* **Khoa**: Khoa học máy tính
 ## GIỚI THIỆU MÔN HỌC
-<a name="gioithieumonhoc"></a>
+<a name="monhoc"></a>
 * **Môn học**: MÁY HỌC - MACHINE LEARNING
 * **Mã môn**: CS114
 * **Mã lớp**: CS114.L22.KHCL
@@ -19,11 +27,11 @@
 
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
-* PGS.TS. **Lê Đình Duy** - *duydl@uit.edu.vn*
-* ThS. **Phạm Nguyễn Trường An** - *truonganpn@uit.edu.vn*
+* **PGS.TS. Lê Đình Duy** - *duydl@uit.edu.vn*
+* **ThS. Phạm Nguyễn Trường An** - *truonganpn@uit.edu.vn*
 
 ## QUÁ TRÌNH HỌC TẬP
-<a name="hoatdong"></a>
+<a name="quatrinh"></a>
 ### Tuần 1
 * Warm up
 * Tăng tốc từ từ

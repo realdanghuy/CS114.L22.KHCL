@@ -12,7 +12,7 @@
 ## GIỚI THIỆU MÔN HỌC
 <a name="gioithieumonhoc"></a>
 * **Môn học**: MÁY HỌC - MACHINE LEARNING
-* **Mã môn **: CS114
+* **Mã môn**: CS114
 * **Mã lớp**: CS114.L22.KHCL
 * **Ngày bắt đầu**: 01/03/2021
 * **Năm học**: HK2 (2020-2021)

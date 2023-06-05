@@ -37,4 +37,11 @@
 ### Tuần 1
 * Warm up
 * Tăng tốc từ từ
+### Tuần 2
+* Chú ý thời gian thực thi
+### Tuần 3
+* Ôn tiếp cấu trúc dữ liệu
+### Tuần 4
+* Bài tập WeCode cuối cùng
+
 

@@ -35,7 +35,7 @@
 <a name="quatrinh"></a>
 
 ### Tuần 1
-* Warm up
+* Khởi động
 * Tăng tốc từ từ
 ### Tuần 2
 * Chú ý thời gian thực thi
